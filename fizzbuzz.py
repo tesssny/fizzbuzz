@@ -1,7 +1,7 @@
 """
 fizzbuzz.py
 Author: Tess Snyder
-Credit: Adam Glueck
+Credit: Adam Glueck, Mary Feyrer
 
 Assignment:
 
